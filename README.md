@@ -29,6 +29,8 @@
 ## panner Dosa
 
 * dosa batter
+* panner
+* carrot
 
 
 
