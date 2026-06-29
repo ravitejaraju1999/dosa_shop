@@ -15,7 +15,7 @@
 
 * batter added
 
-* prepared karam recipie
+* prepared erra karam recipie
 
 * oil added
 
