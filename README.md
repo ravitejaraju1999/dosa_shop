@@ -19,3 +19,11 @@
 
 * oil added
 
+# Egg dosa
+
+* dosa batter
+
+* egg and karram
+
+
+
