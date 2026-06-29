@@ -13,5 +13,9 @@
 
 ## karam dosa
 
+* batter added
+
 * prepared karam recipie
+
+* oil added
 
