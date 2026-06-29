@@ -2,3 +2,5 @@
 
 # raviteja
 # plain dosa is good
+
+* dosa batter prepared
