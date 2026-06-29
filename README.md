@@ -6,3 +6,8 @@
 * dosa batter prepared
 
 * oil added
+
+* with palle chutney
+
+* karam chutney added
+
