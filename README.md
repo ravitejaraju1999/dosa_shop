@@ -4,3 +4,5 @@
 # plain dosa is good
 
 * dosa batter prepared
+
+* oil added
